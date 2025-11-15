@@ -1,0 +1,4 @@
+pytz
+aiogram>=3,<4
+requests
+Pillow
